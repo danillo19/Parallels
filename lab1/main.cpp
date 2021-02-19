@@ -2,6 +2,7 @@
 #include "C:\Program Files (x86)\Microsoft SDKs\MPI\Include/mpi.h"
 #include <cmath>
 
+
 const double REQUIRED_ACCURACY = 0.00000001;
 
 
